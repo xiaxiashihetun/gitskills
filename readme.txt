@@ -1,3 +1,3 @@
 Creating a new branch is quick AND simple
-I love HUST
+I love HUST and WHU
 
